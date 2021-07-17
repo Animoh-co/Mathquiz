@@ -1,0 +1,51 @@
+body
+{
+	background-image: url("Loginbg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+	.playinput
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		
+	}
+
+    h1{
+        border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+    }
+
+    button{
+        border-radius: 10px;
+        width: 150px;
+        padding:5px;
+    }
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
